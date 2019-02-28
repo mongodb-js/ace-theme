@@ -15,6 +15,10 @@ import 'mongodb-ace-theme';
 editor.setTheme("ace/theme/mongodb");
 ```
 
+## Related
+
+- [`mongodb-ace-mode`](https://github.com/mongodb-js/ace-mode)
+
 ## License
 
 Apache 2.0
